@@ -1,0 +1,183 @@
+
+
+header {
+
+	background-color: black;
+	font-size: 40px;
+	text-align: left;
+	margin: 0;
+}
+
+html {
+	background: url(BG.jpg) center / cover repeat;
+	color: white;
+	font-family:  Verdana;
+}
+
+
+body {
+	background-color: black;
+	margin: 0;
+
+}
+
+nav {
+	list-style: none;
+	background-color: black;
+	font-size: 50%;
+	margin: 0%;
+	font-family: arial;
+}
+nav > li {
+	display: inline-block;
+	padding-right: 40px;
+}
+
+nav > li > a {
+	text-decoration: none;
+	color: white;
+	padding: 0.001%;
+	background-color: blue;
+	border: dashed;
+}	
+
+#introduction {
+	text-align: center;
+}
+
+.Logo {
+	padding-bottom: 20px;
+	font-size: 40%;
+	background-color: blue;
+}
+
+.BannerImage {
+	width: 100%;
+	display: block;
+	margin: 0;
+}
+
+.Banner > .BannerImage {
+	width: 100%;
+	display: block;
+	margin: 0;
+}
+
+footer {
+	list-style: none;
+	background-color: gray;
+	text-align: center;
+}
+footer > li {
+	color: red;
+
+}
+
+footer > li > a {
+	text-decoration: none;
+	color: red;
+	display: block;
+}
+
+#Profilepic {
+	float: right;
+	border-style: dotted;
+	background-color: black;
+	height: 1600px;
+	text-align: center;
+	border-color: red;
+}
+nav li {
+	color: red;
+	margin: 0;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	margin: 0;
+	text-align: center;
+}
+
+#h3resume {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: red;
+}
+
+#address {
+	float: right;
+}
+
+ul li {
+	color: white;
+	list-style: none;
+
+}
+
+#piclist {
+	text-align: center;
+}
+
+img:hover {
+	opacity: 0.8;
+}
+
+#skilllist {
+	color: white;
+}
+
+div#imgsoftware {
+	text-align: center;
+	
+}
+
+#webimg {
+	border: solid;
+	color: red;
+	width: 500px;
+}
+
+#webimg1 {
+	border: dashed;
+	width: 400px;
+	color: blue;
+}
+
+#webimg2 {
+	border: dashed;
+	width: 400px;
+	color: blue;
+}	
+
+#webimg3 {
+	border: dashed;
+	width: 400px;
+	color: blue;
+}
+
+#webimg4 {
+	border: dashed;
+	width: 400px;
+	color: blue;
+}
+
+#intro1 {
+	border: solid;
+}
+
+#intro2 {
+	border: solid;
+}
+
+#intro3 {
+	border: solid;
+	width: 680px;
+	text-align: center;
+}
+
